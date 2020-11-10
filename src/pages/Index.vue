@@ -33,16 +33,13 @@ export default {
         { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
       ]
     }
-  }
-    metaInfo() {
     return {
-      title: this.description,
-      meta: [
+      title: this.siteName,
+       meta: [
         { key: 'siteName', name: 'siteName', content: 'dppa' }
-      ]
+       ]
     }
   }
-}
 </script>
 
 <style lang="scss" scoped>
