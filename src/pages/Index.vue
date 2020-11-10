@@ -5,8 +5,7 @@
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Theory" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Arithmatic" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Calculator" icon="eye-icon" />
+        <Shortcut link="/theme-configuration" text="Calculator" icon="sliders-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>

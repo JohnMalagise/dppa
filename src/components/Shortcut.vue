@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import { PlayIcon, SlidersIcon, EyeIcon } from 'vue-feather-icons'
+import { BookOpenIcon, BarChart2Icon} from 'vue-feather-icons'
 
 export default {
   components: {
