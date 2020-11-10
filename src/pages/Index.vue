@@ -1,7 +1,7 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1>{{ this.siteName }} - {{ this.description }}</h1>
+      <h1>{dppa - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Theory" icon="BookOpenIcon" />
@@ -31,14 +31,6 @@ export default {
       title: this.description,
       meta: [
         { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
-      ]
-    }
-  },
-    metaInfo() {
-    return {
-      title: this.siteName,
-      meta: [
-        { key: 'siteName', name: 'siteName', content: 'dppa' }
       ]
     }
   }
