@@ -39,7 +39,8 @@ export default {
         { key: 'siteName', name: 'siteName', content: 'dppa' }
        ]
     }
-  },
+  }
+}
 </script>
 
 <style lang="scss" scoped>
