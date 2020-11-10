@@ -14,9 +14,8 @@ import { BookOpenIcon, BarChart2Icon} from 'vue-feather-icons'
 
 export default {
   components: {
-    PlayIcon,
-    SlidersIcon,
-    EyeIcon
+    BookOpenIcon,
+    BarChart2Icon
   },
   props: {
     link: {
