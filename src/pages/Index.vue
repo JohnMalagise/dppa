@@ -32,14 +32,14 @@ export default {
       meta: [
         { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
       ]
-    },
+    }
     return {
       title: this.siteName,
        meta: [
         { key: 'siteName', name: 'siteName', content: 'dppa' }
        ]
     }
-  }
+  },
 </script>
 
 <style lang="scss" scoped>
