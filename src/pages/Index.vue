@@ -7,7 +7,7 @@
         <Shortcut link="/getting-started" text="Theory" icon="BookOpenIcon" />
         <Shortcut link="/theme-configuration" text="Calculator" icon="BarChart2Icon" />
       </nav>
-      <GitLink class="git" size="large" />
+      <!-- <GitLink class="git" size="large" /> -->
     </div>
   </Layout>
 </template>
