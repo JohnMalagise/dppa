@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteName: 'dppa',
+  siteUrl: 'https://5fa9fd66a3984d000841ac95--dppa.netlify.app/',
   templates: {
     Doc: '/:slug',
   },

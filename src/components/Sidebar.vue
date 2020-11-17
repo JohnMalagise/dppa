@@ -19,7 +19,6 @@
         <!--<GitLink class="git" />-->
       </nav>
     </aside>
-    <h1>testing to see where this goes</h1>
 </template>
 
 
