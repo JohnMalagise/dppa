@@ -6,9 +6,6 @@
         {
           "title": "How To Win",
           "slug": "How-To-Win"
-        },{
-          "title":"filler",
-          "slug":"filler"
         }
       ]
     },
@@ -18,10 +15,6 @@
         {
           "title": "MLB 2020 Table",
           "slug": "mlb-2020-table"
-        },
-        {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
         }
       ]
     }
