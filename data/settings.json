@@ -13,11 +13,11 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Implementation",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "MLB 2020 Table",
+          "slug": "mlb-2020-table"
         },
         {
           "title": "Forestry CMS",
