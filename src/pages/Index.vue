@@ -5,7 +5,7 @@
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Theory" icon="BookOpenIcon" />
-        <Shortcut link="/theme-configuration" text="Calculator" icon="BarChart2Icon" />
+        <Shortcut link="/theme-configuration" text="MLB 2020 Stats" icon="BarChart2Icon" />
       </nav>
       <!-- <GitLink class="git" size="large" /> -->
     </div>

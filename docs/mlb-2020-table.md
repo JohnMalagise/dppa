@@ -1,6 +1,6 @@
 ---
 title: MLB 2020 Table
-date: 2020-11-17 
+date: 2020-11-17 07:42:34
 slug: mlb-2020-table
 ---
 
