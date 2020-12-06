@@ -33,3 +33,11 @@ Michael Conforto | 20 | 0.927 | 156 | 0.585
 Anthony Rendon | 23 |  0.915 | 151 | 0.599
 George Springer | 24 | 0.899 | 140 | 0.589
 Eloy Jimenz | 25 | .891 | 140 | 0.580
+
+## Analyzing the Differences
+
+I took the top 25 OPS leaders of 2020 and calculated their DPPA. As shown by OPS ranking, the order is significantly different when you order it via DPPA, even though the two statistics don't seem to be much different from one another. 
+
+## DJ LeMahieu
+
+DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He drops so far down because he never attempts to steal bases, and because DPPA is calculated off of plate appearances instead of at bats. Since he gets walked a lot, and walks don't count as at bats, he excells in OPS. But since DPPA purely looks at total bases manufactured per plate appearance, he does not get the luxury of deflating the denominator in the equation.
