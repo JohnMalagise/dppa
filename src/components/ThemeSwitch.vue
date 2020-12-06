@@ -28,8 +28,8 @@ export default {
       const body = document.querySelector('body')
 
       if (process.isClient && localStorage.getItem('theme') === null) {
-        localStorage.setItem('theme', 'dark')
-        self.theme = 'dark'
+        localStorage.setItem('theme', 'bright')
+        self.theme = 'bright'
       } 
       if (process.isClient) {
         body.classList.add(localStorage.getItem('theme'))
