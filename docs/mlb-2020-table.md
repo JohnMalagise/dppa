@@ -4,6 +4,8 @@ date: 2020-11-17
 slug: mlb-2020-table
 ---
 
+## Top 25 OPS Leaders Ranked by DPPA
+
 Player | OPS Rank | OPS | OPS+ | DPPA
 :---: | :---: | :---: | :---: | :---:
 Jaun Soto | 1 | 1.185 | 212 | 0.843
