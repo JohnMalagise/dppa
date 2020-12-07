@@ -40,11 +40,11 @@ I took the top 25 OPS leaders of 2020 and calculated their DPPA. As shown by OPS
 
 ## DJ LeMahieu
 
-DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He drops so far down because he never attempts to steal bases, and because DPPA is calculated off of plate appearances instead of at bats. Since he gets walked a lot, and walks don't count as at bats, he excells in OPS. But since DPPA purely looks at total bases manufactured per plate appearance, he does not get the luxury of deflating the denominator in the equation.
+DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He drops so far down because he never attempts to steal bases, and because DPPA is calculated off of plate appearances instead of at-bats. Since he gets walked often, and walks don't count as at-bats, he excels in OPS. But since DPPA purely looks at total bases manufactured per plate appearance, he does not get the luxury of deflating the denominator in the equation.
 
 ## Fernando Tatis Jr.
 
-Tatis makes a huge jump when comparing his OPS ranking to his DPPA ranking. The young super star makes such a high jump because in addition to his many extra base hits and high amount of walks, he steals bases. In the shortened 2020 season, he stole 11 bases (the most on this list), and was only thrown out 3 times. Thinking mathematically the 11 stolen bases he had can be thought of as 11 singles that he turned into doubles. 
+Tatis makes a huge jump when comparing his OPS ranking to his DPPA ranking. The young superstar makes such a high jump because, in addition to his many extra-base hits and a high amount of walks, he steals bases. In the shortened 2020 season, he stole 11 bases (the most on this list) and was only thrown out 3 times. Thinking mathematically the 11 stolen bases he had can be thought of as 11 singles that he turned into doubles. 
 
 ## Analyzing The Los Angeles Angels 2020 Lineup
 
@@ -62,10 +62,12 @@ Albert Pujols | 6 | 0.665 | 80 | 0.436
 
 ## David Fletcher
 
-The Angels most used leadoff hitter this year was David Fletcher. FLetcher is a classic looking leadoff hitter. He takes pitches, doesn't walk or strike out much, and hits a lot of singles. Fletcher hit 50 singles this year but only managed to steal 2 bases, being caught stealing once. Fletcher is not a player that can make it into scoring position (at least to second base) easily or often. Because of that, I believe that the Angels wasted a handful of at bats over the shortened season that could have otherwise went to Mike Trout instead.
+The Angels most-used leadoff hitter this year was David Fletcher. FLetcher is a classic looking leadoff hitter. He takes pitches, doesn't walk or strike out much, and hits a lot of singles. Fletcher hit 50 singles this year but only managed to steal 2 bases, being caught stealing once. Fletcher is not a player that can make it into scoring position (at least to second base) easily or often. Because of that, I believe that the Angels wasted a handful of at-bats over the shortened season that could have otherwise gone to Mike Trout instead.
 
 ## Mike Trout
-To noones surprise, Mike Trout does the most DPPA on the Angles squad. He accomplishes this by hitting for a high average with lots of extra base hits accompanied by lots of walks. With only one stolen base this season, Mike Trouts DPPA is lower than his 2019 DPPA, 0.754, where he stole 11 bases and was only caught stealing twice. It isn't fair to compare 2019 to 2020, as in 2019 Trout played in 134 games versus 53 in 2020. I make the comparison with the intent of illustrating the impact stealing bases can have, along side of plenty of other factors.
+
+To no one's surprise, Mike Trout does the most DPPA on the Angles squad. He accomplishes this by hitting for a high average with lots of extra-base hits accompanied by lots of walks. With only one stolen base this season, Mike Trouts DPPA is lower than his 2019 DPPA, 0.754, where he stole 11 bases and was only caught stealing twice. It isn't fair to compare 2019 to 2020, as in 2019 Trout played in 134 games versus 53 in 2020. I make the comparison with the intent of illustrating the impact stealing bases can have, alongside plenty of other factors.
 
 ## Brian Goodwin
-While Goodwin only plated 30 games with the Angels before moving to Cincinati to play 20 games for the Reds, I used his whole season statistics for the sake of this analyzation. While he was an Angel, he was most often seen in the 9-hole. Goodwin's offensive production was wasted in the 9-hole, as he did the 4th most DPPA in the lineup, even though his OPS+ is well below average (100). He accomplished this by hitting for extra bases, walking, and stealing bases. Goodwin always had a good chance to not only get on, but to get into a dangerous position: scoring position.
+
+While Goodwin only played 30 games with the Angels before moving to Cincinnati to play 20 games for the Reds, I used his whole season statistics for the sake of this analysis. While he was an Angel, he was most often seen in the 9-hole. Goodwin's offensive production was wasted in the 9-hole, as he did the 4th most DPPA in the lineup, even though his OPS+ is well below average (100). He accomplished this by hitting for extra bases, walking, and stealing bases. Goodwin always had a good chance to not only get on but to get into a dangerous position: scoring position.
