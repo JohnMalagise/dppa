@@ -2,7 +2,7 @@
   <g-link to="/" class="logo" title="Back to home">
     <transition name="theme">
       <div v-if="color == 'dark'">
-        <g-image src="~/assets/img/darkBG.png" alt="logo" />
+        <g-image src="~/assets/img/darkBG.jpeg" alt="logo" />
       </div>
     </transition>
     <transition name="theme">
@@ -26,7 +26,7 @@ export default {
 
 <style lang="scss" scoped>
 .logo {
-  height: 40px;
+  height: 100px;
   display: block;
   transition: color .15s ease-in-out;
   color: $textBright;
@@ -34,7 +34,7 @@ export default {
   perspective: 200px;
 
   div {
-    height: 40px;
+    height: 100px;
     position: absolute;
     top: 0;
     left: 0;
