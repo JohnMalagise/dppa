@@ -1,20 +1,24 @@
 {
   "sidebar": [
     {
-      "section": "Theory",
+      "section": "Introduction",
       "topics": [
         {
-          "title": "How To Win",
-          "slug": "How-To-Win"
+          "title": "Getting started",
+          "slug": "getting-started"
         }
       ]
     },
     {
-      "section": "Implementation",
+      "section": "Setup",
       "topics": [
         {
-          "title": "MLB 2020 Table",
-          "slug": "mlb-2020-table"
+          "title": "Theme configuration",
+          "slug": "theme-configuration"
+        },
+        {
+          "title": "Forestry CMS",
+          "slug": "forestry-cms"
         }
       ]
     }
