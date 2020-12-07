@@ -48,7 +48,7 @@ Tatis makes a huge jump when comparing his OPS ranking to his DPPA ranking. The 
 
 ## Analyzing The Los Angeles Angels 2020 Lineup
 
-Player | Order Numbner | OPS | OPS+ | DPPA
+Player | Order Number | OPS | OPS+ | DPPA
 :---: | :---: | :---: | :---: | :---:
 Mike Trout | 3 | 0.993 | 168 | 0.674
 Anthony Rendon | 4 | 0.915 | 151 | 0.599
