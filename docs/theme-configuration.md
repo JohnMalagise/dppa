@@ -1,88 +1,43 @@
 ---
-title: Theme configuration 
+title: How to Win 
 date: 2018-09-15 07:42:34
 slug: theme-configuration
 ---
 
-## Changing logo
-Since there is a bright and a dark theme in Jamdocs, you will need two logotypes. Just replace the two svg files in `src/assets/img` where the dark on is named `logo-dark.svg` and the bright one is named `logo-bright.svg`. If you can´t provide SVG logos, you can just change the file format to for example PNG in line 5 and 10 `src/components/Logo.vue`.
+## Top 25 OPS Leaders Ranked by DPPA
 
+Player | OPS Rank | OPS | OPS+ | DPPA
+:---: | :---: | :---: | :---: | :---:
+Jaun Soto | 1 | 1.185 | 212 | 0.843
+Fernando Tatis Jr. | 18 | 0.937 | 155 | 0.748
+Freddie Freeman | 2 | 1.102 | 186 | 0.740
+Ronald Acuna | 9 |  0.987 | 155 | 0.719
+Marcell Ozuna | 3 | 1.067 | 175 | 0.697
+Bryce Harper | 13 | 0.962 | 157 | 0.691
+Jose Ramirez | 5 |0.993 | 163 | 0.689
+Mike Trout | 6 | 0.993 | 168 | 0.674
+Nelson Cruiz | 8 | 0.992 | 169 | 0.673
+Trea Turner | 11 | 0.982 | 157 | 0.658
+Jose Aberu | 10 | 0.987 | 166 | 0.649
+Wil Myers | 14 | 0.959 | 159 | 0.648
+Mike Yastrzemski | 12 |  0.968 | 165 | 0.646
+Manny Machado | 15 | 0.950 | 158 | 0.646
+Mookie Betts | 19 | 0.927 | 149 | 0.645
+Dominic Smith | 7 | 0.993 | 169 | 0.643
+Luke Voit | 16 | 0.948 | 156 | 0.641
+DJ LeMahieu | 4 | 1.1011 | 177 | 0.639
+Teoscar Hernandez | 21 |  0.919 | 146 | 0.630
+Brandon Lowe | 22 | 0.916 | 152 | 0.621
+Corey Seager | 17 | 0.943 | 152 | 0.616
+Michael Conforto | 20 | 0.927 | 156 | 0.585
+Anthony Rendon | 23 |  0.915 | 151 | 0.599
+George Springer | 24 | 0.899 | 140 | 0.589
+Eloy Jimenz | 25 | .891 | 140 | 0.580
 
-## Adding icons
-If you need to use icons somewhere in the theme, you can use any icon from [Feather Icons](https://feathericons.com/) as a component. All that is needed is that you import the icon in the component you want to use it like i do it in the theme switcher component:
+## Analyzing the Differences
 
-```javascript
-import { MoonIcon, SunIcon } from 'vue-feather-icons'
+I took the top 25 OPS leaders of 2020 and calculated their DPPA. As shown by OPS ranking, the order is significantly different when you order it via DPPA, even though the two statistics don't seem to be much different from one another. 
 
-export default {
-  components: {
-    MoonIcon,
-    SunIcon
-  },
-...
-```
+## DJ LeMahieu
 
-And then the icon can be used like this: 
-
-```html
-<sun-icon class="sun" />
-```
-
-## Changing colors
-To change the theme colors you need to edit the file `src/assets/scss/config/_colors.scss`. When you open the file for the first time it will look like this:
-
-```scss
-// Dark theme
-$backgroundDark: #18191a;
-$sidebarDark: #2a2c2f;
-$textDark: #fff;
-
-// Bright theme
-$backgroundBright: #fff;
-$sidebarBright: #f3f4f5;
-$textBright: #2a2c2f;
-
-// Brand
-$brandPrimary: #10c186;
-```
-
-## Changing font
-Jamdocs uses Source Sans Pro by default. I chose to embed the font in the project to increase page speed. To change the font, you just install another Google Font as a dependency, lets say you want Open Sans:
-
-```bash
-yarn add typeface-open-sans
-```
-
-Then, on line 7 in `src/main.js` you change the line to:
-
-```javascript
-require('typeface-open-sans')
-```
-
-Now you can go to line 12 in `src/assets/scss/globals.scss` and change that line to:
-
-```scss
-font-family: 'Open Sans', sans-serif;
-```
-
-You're done!
-
-## Edit the sidebar
-
-To edit the sidebar, open the file `data/settings.json`. In this file you will find global theme settings as objects and arrays. The sidebar is edit by adding an sections. A section object looks like this:
-
-```json
-{
-  "section": "Introduction",
-  "topics": [
-    {
-      "title": "Getting started",
-      "slug": "getting-started"
-    }
-  ]
-}
-```
-
-The section contains a name, in this case "Introduction", and following the name is an array called topics. Each topic resembles a markdown file in `docs` and contains the title you want that file to have in the sidebar, as well as the slug for routing.
-
-For each topic the markdown is scanned for h2 headings, which is added as anchor links right below the topic in the sidebar.
+DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He drops so far down because he never attempts to steal bases, and because DPPA is calculated off of plate appearances instead of at bats. Since he gets walked a lot, and walks don't count as at bats, he excells in OPS. But since DPPA purely looks at total bases manufactured per plate appearance, he does not get the luxury of deflating the denominator in the equation.
