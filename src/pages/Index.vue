@@ -1,7 +1,7 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1>dppa - {{ this.description }}</h1>
+      <h1>DPPA - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Theory" icon="BookOpenIcon" />
