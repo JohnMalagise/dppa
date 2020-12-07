@@ -63,6 +63,20 @@ Justin Upton | 8 | 0.711 | 93 | 0.482
 Jason Castro | 7 | 0.668 | 83 | 0.457
 Albert Pujols | 6 | 0.665 | 80 | 0.436
 
+## Analyzing the Original Order
+
+1. David Fletcher
+2. Tommy La Stella
+3. Mike Trout
+4. Anthony Rendon
+5. Shohei Ohtani
+6. Albert Pujols
+7. Jason Castro
+8. Justin Upton
+9. Brian Goodwin
+
+The Angles most common lineup follows the very traditional school of thought for creating orders. They have their best hitter (Trout) hitting 3rd, their 2nd best hitter (Rendon) hitting 4th, and their 3rd best hitter (La Stella) hitting second. Also, their leadoff hitter (Fletcher) is a very typical singles hitter. Finally, their last hitter (Goodwin) isn't their worst hitter, rather a better hitter who can "turn over the order" and get momentum going for the top of the order.
+
 ## David Fletcher
 
 The Angels most-used leadoff hitter this year was David Fletcher. FLetcher is a classic looking leadoff hitter. He takes pitches, doesn't walk or strike out much, and hits a lot of singles. Fletcher hit 50 singles this year but only managed to steal 2 bases, being caught stealing once. Fletcher is not a player that can make it into scoring position (at least to second base) on his own easily or often. Because of that, DPPA suggests that the Angels wasted a handful of at-bats over the shortened season that could have otherwise gone to Mike Trout instead.
