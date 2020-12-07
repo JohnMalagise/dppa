@@ -40,7 +40,7 @@ I took the top 25 OPS leaders of 2020 and calculated their DPPA. As shown by OPS
 
 ## DJ LeMahieu
 
-DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He drops so far down because he never attempts to steal bases, and because DPPA is calculated off of plate appearances instead of at-bats. Since he gets walked often, and walks don't count as at-bats, he excels in OPS. But since DPPA purely looks at total bases manufactured per plate appearance, he does not get the luxury of deflating the denominator in the equation.
+DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He drops so far down because he never attempts to steal bases, and because DPPA is calculated off of plate appearances instead of at-bats. Because of this, LeMahieu appears to be less productive per plate appearance than someone who can hit for extra bases as well as steal bases.
 
 ## Fernando Tatis Jr.
 
