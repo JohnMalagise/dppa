@@ -3,11 +3,11 @@
   "short_name": "dppa",
   "icons": [
     {
-      "src": "logo-192.png",
+      "src": "favicon.jpg",
       "sizes": "192x192"
     },
     {
-      "src": "logo-512.png",
+      "src": "favicon.jpg",
       "sizes": "512x512"
     }
   ],
