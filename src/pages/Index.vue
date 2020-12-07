@@ -23,7 +23,7 @@ export default {
   },
   data() {
     return {
-      description: ''
+      description: 'Home'
     }
   },
   metaInfo() {
