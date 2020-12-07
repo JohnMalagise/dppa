@@ -31,7 +31,7 @@ export default {
   transition: color .15s ease-in-out;
   color: $textBright;
   position: relative;
-  perspective: 200px;
+  perspective: 300px;
 
   div {
     height: 100px;
