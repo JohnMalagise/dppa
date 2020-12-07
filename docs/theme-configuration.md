@@ -71,3 +71,4 @@ To no one's surprise, Mike Trout does the most DPPA on the Angles squad. He acco
 ## Brian Goodwin
 
 While Goodwin only played 30 games with the Angels before moving to Cincinnati to play 20 games for the Reds, I used his whole season statistics for the sake of this analysis. While he was an Angel, he was most often seen in the 9-hole. Goodwin's offensive production was wasted in the 9-hole, as he did the 4th most DPPA in the lineup, even though his OPS+ is well below average (100). He accomplished this by hitting for extra bases, walking, and stealing bases. Goodwin always had a good chance to not only get on but to get into a dangerous position: scoring position.
+
