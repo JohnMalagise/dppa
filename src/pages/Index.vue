@@ -23,7 +23,7 @@ export default {
   },
   data() {
     return {
-      description: 'DPPA - A New Baseball Statistic'
+      description: 'A New Baseball Statistic'
     }
   },
   metaInfo() {
