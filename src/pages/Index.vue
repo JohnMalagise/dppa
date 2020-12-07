@@ -1,7 +1,7 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1>DPPA - {{ this.description }}</h1>
+      <h1>DPPA - Damage Per Plate Appearance - A New Baseball Statistic/h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Theory" icon="BookOpenIcon" />
@@ -23,7 +23,7 @@ export default {
   },
   data() {
     return {
-      description: 'Damage Per Plate Appearance - A New Baseball Statistic'
+      description: 'DPPA'
     }
   },
   metaInfo() {
