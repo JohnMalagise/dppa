@@ -1,7 +1,7 @@
 ---
 title: How to Win 
-date: 2020-11-17 07:42:34
-slug: how-to-win
+date: 2018-09-15 07:42:34
+slug: getting-started
 ---
 
 ## How to Win a Championship

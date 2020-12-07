@@ -1,4 +1,4 @@
-{
+{ //connecting doc md files to sidebar
   "sidebar": [
     {
       "section": "Introduction",
