@@ -1,7 +1,7 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "What is DPPA",
       "topics": [
         {
           "title": "Getting started",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "MLB Application",
       "topics": [
         {
           "title": "Theme configuration",
