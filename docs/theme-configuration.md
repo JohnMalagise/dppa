@@ -4,7 +4,7 @@ date: 2018-09-15 07:42:34
 slug: theme-configuration
 ---
 
-## Top 25 OPS Leaders Ranked by DPPA
+# Top 25 OPS Leaders Ranked by DPPA
 
 Player | OPS Rank | OPS | OPS+ | DPPA
 :---: | :---: | :---: | :---: | :---:
@@ -46,7 +46,7 @@ DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He dro
 
 Tatis makes a huge jump when comparing his OPS ranking to his DPPA ranking. The young superstar makes such a high jump because, in addition to his many extra-base hits and a high amount of walks, he steals bases. In the shortened 2020 season, he stole 11 bases (the most on this list) and was only thrown out 3 times. Thinking mathematically the 11 stolen bases he had can be thought of as 11 singles that he turned into doubles. 
 
-## Analyzing The Los Angeles Angels 2020 Lineup
+# Analyzing The Los Angeles Angels 2020 Lineup
 
 Player | Order Number | OPS | OPS+ | DPPA
 :---: | :---: | :---: | :---: | :---:
