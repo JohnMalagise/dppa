@@ -1,10 +1,10 @@
 {
   "sidebar": [
     {
-      "section": "What is DPPA",
+      "section": "Theory",
       "topics": [
         {
-          "title": "Getting started",
+          "title": "What is DPPA",
           "slug": "getting-started"
         }
       ]
@@ -13,7 +13,7 @@
       "section": "MLB Application",
       "topics": [
         {
-          "title": "Theme configuration",
+          "title": "MLB 2020 Stats",
           "slug": "theme-configuration"
         }
       ]
