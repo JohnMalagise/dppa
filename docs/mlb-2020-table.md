@@ -1,5 +1,5 @@
 ---
-title: MLB 2020 Table
+title: 
 date: 2020-11-17 07:42:34
 slug: mlb-2020-table
 ---

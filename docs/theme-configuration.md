@@ -1,5 +1,5 @@
 ---
-title: How to Win 
+title: MLB 2020 Stats
 date: 2018-09-15 07:42:34
 slug: theme-configuration
 ---
