@@ -38,6 +38,9 @@ Eloy Jimenz | 25 | .891 | 140 | 0.580
 
 I took the top 25 OPS leaders of 2020 and calculated their DPPA. As shown by OPS ranking, the order is significantly different when you order it via DPPA, even though the two statistics don't seem to be much different from one another. 
 
+## Juan Soto
+Juan Soto rakes.
+
 ## DJ LeMahieu
 
 DJ Lemahieu is ranked 4th according to OPS but is 17th according to DPPA. He drops so far down because he never attempts to steal bases, and because DPPA is calculated off of plate appearances instead of at-bats. Because of this, LeMahieu appears to be less productive per plate appearance than someone who can hit for extra bases as well as steal bases.
