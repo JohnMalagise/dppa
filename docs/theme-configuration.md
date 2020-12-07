@@ -4,7 +4,7 @@ date: 2018-09-15 07:42:34
 slug: theme-configuration
 ---
 
-# Top 25 OPS Leaders Ranked by DPPA
+# [Top 25 OPS Leaders] (https://www.mlb.com/stats/) Ranked by DPPA
 
 Player | OPS Rank | OPS | OPS+ | DPPA
 :---: | :---: | :---: | :---: | :---:
