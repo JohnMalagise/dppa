@@ -26,15 +26,15 @@ export default {
 
 <style lang="scss" scoped>
 .logo {
-  height: 100px;
+  height: 75px;
   display: block;
   transition: color .15s ease-in-out;
   color: $textBright;
   position: relative;
-  perspective: 300px;
+  perspective: 200px;
 
   div {
-    height: 100px;
+    height: 75px;
     position: absolute;
     top: 0;
     left: 0;
