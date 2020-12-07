@@ -3,7 +3,12 @@
   "short_name": "DPPA",
   "icons": [
     {
-      "src": "lightBG.png"
+      "src": "logo-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512"
     }
   ],
   "lang": "en-US",
