@@ -23,7 +23,7 @@ export default {
   },
   data() {
     return {
-      description: 'Damage Per Plate Appearance - A New Baseball Statistic'
+      description: 'DPPA - A New Baseball Statistic'
     }
   },
   metaInfo() {
