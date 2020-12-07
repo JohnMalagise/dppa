@@ -4,11 +4,6 @@
   "icons": [
     {
       "src": "lightBG.jpeg",
-      "sizes": "192x192"
-    },
-    {
-      "src": "lightBG.jpeg",
-      "sizes": "512x512"
     }
   ],
   "lang": "en-US",
