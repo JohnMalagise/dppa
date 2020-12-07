@@ -8,6 +8,7 @@ slug: theme-configuration
 
 Player | [OPS Rank] (https://www.mlb.com/stats/) | OPS | OPS+ | DPPA
 :---: | :---: | :---: | :---: | :---:
+      +       +       +       +
 [Jaun Soto] (https://www.baseball-reference.com/players/s/sotoju01.shtml) | 1 | 1.185 | 212 | 0.843
 [Fernando Tatis Jr.] (https://www.baseball-reference.com/players/t/tatisfe02.shtml) | 18 | 0.937 | 155 | 0.748
 [Freddie Freeman] (https://www.baseball-reference.com/players/f/freemfr01.shtml) | 2 | 1.102 | 186 | 0.740
