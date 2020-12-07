@@ -75,15 +75,16 @@ Albert Pujols | 6 | 0.665 | 80 | 0.436
 8. Justin Upton
 9. Brian Goodwin
 
-The Angles most common lineup follows the very traditional school of thought for creating orders. They have their best hitter (Trout) hitting 3rd, their 2nd best hitter (Rendon) hitting 4th, and their 3rd best hitter (La Stella) hitting second. Also, their leadoff hitter (Fletcher) is a very typical singles hitter. Finally, their last hitter (Goodwin) isn't their worst hitter, rather a better hitter who can "turn over the order" and get momentum going for the top of the order.
+The Angles most common lineup follows the very traditional school of thought for creating orders. They have their best hitter (Trout) hitting 3rd, their 2nd best hitter (Rendon) hitting 4th, and their 3rd best hitter (La Stella) hitting second. Also, their leadoff hitter (Fletcher) is a very typical singles hitter. Finally, their last hitter (Goodwin) isn't their worst hitter, rather a better hitter who can "turn over the order" and get the momentum going for the top of the order. If the Angles had stacked the order via DPPA, they would have runners in scoring position more often as well as have a better chance of scoring those runners.
 
 ## David Fletcher
 
-The Angels most-used leadoff hitter this year was David Fletcher. FLetcher is a classic looking leadoff hitter. He takes pitches, doesn't walk or strike out much, and hits a lot of singles. Fletcher hit 50 singles this year but only managed to steal 2 bases, being caught stealing once. Fletcher is not a player that can make it into scoring position (at least to second base) on his own easily or often. Because of that, DPPA suggests that the Angels wasted a handful of at-bats over the shortened season that could have otherwise gone to Mike Trout instead.
+The Angels most-used leadoff hitter this year was David Fletcher. FLetcher is a classic looking leadoff hitter. He takes pitches, doesn't walk or strike out much, and hits a lot of singles. Fletcher hit 50 singles this year but only managed to steal 2 bases, being caught stealing once. Fletcher is not a player that can make it into scoring position (at least to second base) on his own easily or often. Because of that, DPPA suggests that the Angels wasted a handful of at-bats over the shortened season that could have otherwise gone to Mike Trout instead. If the Angels had stacked their order via DPPA, Fletcher would be a much more useful hitter. Hitting singles can be great situationally, like when you have runners in scoring position. Having Fletcher hitting 5th behind hitters who can get themselves into scoring position is advantageous for Fletcher and the Angles, as he can use his fantastic contact to score runners with the singles he tends to hit. 
 
 ## Mike Trout
 
 To no one's surprise, Mike Trout does the most DPPA on the Angles squad. He accomplishes this by hitting for a high average with lots of extra-base hits accompanied by lots of walks. With only one stolen base this season, Mike Trouts DPPA is lower than his 2019 DPPA, 0.754, where he stole 11 bases and was only caught stealing twice. It isn't fair to compare 2019 to 2020, as in 2019 Trout played in 134 games versus 53 in 2020. I make the comparison with the intent of illustrating the impact stealing bases can have, alongside plenty of other factors.
+
 
 ## Brian Goodwin
 
