@@ -3,7 +3,7 @@
   "short_name": "DPPA",
   "icons": [
     {
-      "src": "lightBG.jpeg",
+      "src": "lightBG.png"
     }
   ],
   "lang": "en-US",
