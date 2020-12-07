@@ -156,7 +156,7 @@ ul {
     display: block;
 
     &.active {
-      color: $brandPrimary;
+      color: #33AFFF ;
     }
   }
 }
