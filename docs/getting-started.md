@@ -6,7 +6,7 @@ slug: getting-started
 
 ## How to Win a Championship
 
-In theory, how do you win a championship in baseball? To win a championship, you need to win as many games as possible. To win as many games as possible, you need to use your players as efficiently as possible. What does that mean? Speaking specifically offensively, you need to use your players who do the most damage the most often.
+In theory, what does a team need to do to win a championship? To win a championship, a team needs to win as many games as possible. To win as many games as possible, a team needs to use their players as efficiently as possible. What does that mean? Speaking specifically offensively, a team needs to use their players who do the most damage the most often.
 
 ## What is damage?
 
