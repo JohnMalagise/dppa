@@ -26,7 +26,7 @@ According to this [article] (https://fantasy.fangraphs.com/buying-generic-plate-
 
 ## Creating a More Efficient Batting Order
 
-So how should you stack your batting order? [OPS] (https://www.baseball-reference.com/bullpen/OPS) or [OPS+] (http://m.mlb.com/glossary/advanced-stats/on-base-plus-slugging-plus) is a great place to start. You will be much more successful in scoring runs throughout a season if you stack your order from highest OPS to lowest OPS, but OPS isn’t perfect for predicting the offensive output. OPS ignores stolen bases and is calculated off of at-bats rather than plate appearances. What is the difference between hitting a double and walking then stealing second? Answer: not much. OPS rewards hitters who hit for extra bases, but ignores the damages done by stealing bases. 
+So how should you stack your batting order? [OPS] (https://www.baseball-reference.com/bullpen/OPS)(on base plus slugging) or [OPS+] (http://m.mlb.com/glossary/advanced-stats/on-base-plus-slugging-plus) (weighted OPS)is a great place to start. You will be much more successful in scoring runs throughout a season if you stack your order from highest OPS to lowest OPS, but OPS isn’t perfect for predicting the offensive output. OPS ignores stolen bases and is calculated off of at-bats rather than plate appearances. What is the difference between hitting a double and walking then stealing second? Answer: not much. OPS rewards hitters who hit for extra bases, but ignores the damages done by stealing bases. 
 
 ## Creating a Lineup With DPPA 
 
