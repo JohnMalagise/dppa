@@ -62,7 +62,7 @@ Albert Pujols | 6 | 0.665 | 80 | 0.436
 
 ## David Fletcher
 
-The Angels most-used leadoff hitter this year was David Fletcher. FLetcher is a classic looking leadoff hitter. He takes pitches, doesn't walk or strike out much, and hits a lot of singles. Fletcher hit 50 singles this year but only managed to steal 2 bases, being caught stealing once. Fletcher is not a player that can make it into scoring position (at least to second base) easily or often. Because of that, I believe that the Angels wasted a handful of at-bats over the shortened season that could have otherwise gone to Mike Trout instead.
+The Angels most-used leadoff hitter this year was David Fletcher. FLetcher is a classic looking leadoff hitter. He takes pitches, doesn't walk or strike out much, and hits a lot of singles. Fletcher hit 50 singles this year but only managed to steal 2 bases, being caught stealing once. Fletcher is not a player that can make it into scoring position (at least to second base) on his own easily or often. Because of that, DPPA suggests that the Angels wasted a handful of at-bats over the shortened season that could have otherwise gone to Mike Trout instead.
 
 ## Mike Trout
 
